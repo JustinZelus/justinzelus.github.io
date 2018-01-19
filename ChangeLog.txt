@@ -1,1 +1,4 @@
-
+Jan 19, 2018
+-Author JZ
+-1.0.0
+1.修改Mozilla範例的code(.js .css .html檔)。
